@@ -1,5 +1,5 @@
 classes = 1
-train = /home/deen/github/lisenceplate/lisenceplate_train.txt
-valid = /home/deen/github/lisenceplate/lisenceplate_valid.txt
-names = /home/deen/github/lisenceplate/lisenceplate.names
-backup = /home/deen/github/lisenceplate
+train = /root/src/lisenceplate/lisenceplate_train.txt
+valid = /root/src/lisenceplate/lisenceplate_valid.txt
+names = /root/src/lisenceplate/lisenceplate.names
+backup = /root/src/lisenceplate
