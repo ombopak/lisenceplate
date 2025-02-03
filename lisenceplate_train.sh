@@ -17,7 +17,7 @@ echo "initial ts1: ${ts1}" >> output.log
 echo "initial ts2: ${ts2}" >> output.log
 echo "cmd: /usr/bin/darknet detector -map -dont_show train /root/src/lisenceplate/lisenceplate.data /root/src/lisenceplate/lisenceplate.cfg" >> output.log
 
-/usr/bin/time --verbose /usr/bin/darknet detector -map -dont_show train /root/srclisenceplate/lisenceplate.data /root/src/lisenceplate/lisenceplate.cfg 2>&1 | tee --append output.log
+/usr/bin/time --verbose /usr/bin/darknet detector -map -dont_show train /root/src/lisenceplate/lisenceplate.data /root/src/lisenceplate/lisenceplate.cfg 2>&1 | tee --append output.log
 
 ts3=$(date)
 ts4=$(date +%s)
