@@ -2,7 +2,7 @@
 	"completely_empty": false,
 	"image": {
 		"height": 500,
-		"scale": 1.974,
+		"scale": 1.998,
 		"width": 750
 	},
 	"mark": [
@@ -47,6 +47,6 @@
 			}
 		}
 	],
-	"timestamp": 1738603310,
+	"timestamp": 1738629698,
 	"version": "1.10.18-1"
 }
